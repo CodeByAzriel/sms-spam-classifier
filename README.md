@@ -13,20 +13,6 @@ A simple machine learning project that classifies SMS messages as **spam** or **
 
 ---
 
-## Project Structure
-
-spam_classifier/
-├─ data/
-│ └─ spam.csv
-├─ models/
-│ ├─ spam_model.pkl
-│ └─ vectorizer.pkl
-├─ spam_classifier.py
-└─ spam_app.py
-
-
----
-
 ## Installation & Usage
 
 1. **Clone the repository**
