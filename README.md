@@ -1,6 +1,7 @@
 # SMS Spam Classifier
 
 A simple machine learning project that classifies SMS messages as **spam** or **ham (not spam)** using Python. The project includes preprocessing, training, evaluation, and an interactive web demo built with Streamlit.
+ <img width="837" height="481" alt="image" src="https://github.com/user-attachments/assets/bf577868-3393-44d4-8c93-6b8b4e235534" />
 
 ---
 
